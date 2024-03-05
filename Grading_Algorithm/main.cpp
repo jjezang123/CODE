@@ -5,6 +5,11 @@
 
 using namespace std;
 
+//////////////////////////////////////////////////////////////////////////
+//This is a tool developed in C++ that can be used for grading in class.//
+//////////////////////////////////////////////////////////////////////////
+
+
 // constants I need
 const int max_s = 5;	// student and sets of scores
 const int max_nos = 10;// maximum number of scores for each student
