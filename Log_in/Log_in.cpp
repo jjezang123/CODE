@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//This is a code developed to enable login functionality on a website.
+
 string new_ID;
 string new_p;
 
