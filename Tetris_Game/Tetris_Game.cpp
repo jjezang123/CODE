@@ -7,6 +7,10 @@ using namespace std;
 #include <stdio.h>
 #include <Windows.h>
 
+//////////////////////////////////////////////
+//This is a Tetris Game developed for fun...//
+//////////////////////////////////////////////
+
 int nScreenWidth = 120;			// Console Screen Size X (columns)
 int nScreenHeight = 60;			// Console Screen Size Y (rows)
 wstring tetromino[7];
