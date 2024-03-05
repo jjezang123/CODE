@@ -4,8 +4,8 @@
 //-----------------------------------------------------------
 // Author:  Jeff Jung	
 // Description:  Write an application that allows the user to enter, view, search and sort statistics on a team of
-// basketball players.The program should start by reading data from a file called ìbballin.txtî, and should
-// end by writing data to a file called ìbballout.txtî.
+// basketball players.The program should start by reading data from a file called ‚Äúbballin.txt‚Äù, and should
+// end by writing data to a file called ‚Äúbballout.txt‚Äù.
 // 
 //-----------------------------------------------------------
 #include <iostream>
